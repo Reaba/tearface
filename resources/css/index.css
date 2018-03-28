@@ -1,0 +1,40 @@
+* {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+h1 {
+  color: SeaGreen;
+  text-align: justify;
+}
+
+background
+h3 {
+  text-align: justify;
+}
+
+.face {
+   background: url("../images/face book.jpg");
+   width: 500px;
+   height: 450px;
+   opacity: 0.9;
+}
+
+li {
+  font-size: 20px;
+  font-weight: bolder;
+  text-align:justify;
+}
+
+p {
+  text-align: center;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+a {
+  text-decoration: none;
+}
+
+.most-important {
+  font-size: 30px;
+}
